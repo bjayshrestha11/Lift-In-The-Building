@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548830078 source:c:\users\dell\desktop\liftinthebuilding\main.cpp
+	<iostream>
+	<iomanip>
+	<graphics.h>
+	<stdlib.h>
+
+1548997240 source:c:\users\dell\desktop\lift-in-the-building\main.cpp
+	<iostream>
+	<iomanip>
+	<graphics.h>
+	<stdlib.h>
+
